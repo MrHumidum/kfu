@@ -1,0 +1,14 @@
+/Users/mrhumidum/Documents/Projects/labs/Homework_1/bin/Debug/net8.0/Homework_1
+/Users/mrhumidum/Documents/Projects/labs/Homework_1/bin/Debug/net8.0/Homework_1.deps.json
+/Users/mrhumidum/Documents/Projects/labs/Homework_1/bin/Debug/net8.0/Homework_1.runtimeconfig.json
+/Users/mrhumidum/Documents/Projects/labs/Homework_1/bin/Debug/net8.0/Homework_1.dll
+/Users/mrhumidum/Documents/Projects/labs/Homework_1/bin/Debug/net8.0/Homework_1.pdb
+/Users/mrhumidum/Documents/Projects/labs/Homework_1/obj/Debug/net8.0/Homework_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrhumidum/Documents/Projects/labs/Homework_1/obj/Debug/net8.0/Homework_1.AssemblyInfoInputs.cache
+/Users/mrhumidum/Documents/Projects/labs/Homework_1/obj/Debug/net8.0/Homework_1.AssemblyInfo.cs
+/Users/mrhumidum/Documents/Projects/labs/Homework_1/obj/Debug/net8.0/Homework_1.csproj.CoreCompileInputs.cache
+/Users/mrhumidum/Documents/Projects/labs/Homework_1/obj/Debug/net8.0/Homework_1.dll
+/Users/mrhumidum/Documents/Projects/labs/Homework_1/obj/Debug/net8.0/refint/Homework_1.dll
+/Users/mrhumidum/Documents/Projects/labs/Homework_1/obj/Debug/net8.0/Homework_1.pdb
+/Users/mrhumidum/Documents/Projects/labs/Homework_1/obj/Debug/net8.0/Homework_1.genruntimeconfig.cache
+/Users/mrhumidum/Documents/Projects/labs/Homework_1/obj/Debug/net8.0/ref/Homework_1.dll
