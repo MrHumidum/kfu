@@ -1,0 +1,15 @@
+/Users/mrhumidum/Documents/Projects/labs/Lab_1/bin/Debug/net8.0/Lab_1
+/Users/mrhumidum/Documents/Projects/labs/Lab_1/bin/Debug/net8.0/Lab_1.deps.json
+/Users/mrhumidum/Documents/Projects/labs/Lab_1/bin/Debug/net8.0/Lab_1.runtimeconfig.json
+/Users/mrhumidum/Documents/Projects/labs/Lab_1/bin/Debug/net8.0/Lab_1.dll
+/Users/mrhumidum/Documents/Projects/labs/Lab_1/bin/Debug/net8.0/Lab_1.pdb
+/Users/mrhumidum/Documents/Projects/labs/Lab_1/obj/Debug/net8.0/Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrhumidum/Documents/Projects/labs/Lab_1/obj/Debug/net8.0/Lab_1.AssemblyInfoInputs.cache
+/Users/mrhumidum/Documents/Projects/labs/Lab_1/obj/Debug/net8.0/Lab_1.AssemblyInfo.cs
+/Users/mrhumidum/Documents/Projects/labs/Lab_1/obj/Debug/net8.0/Lab_1.csproj.CoreCompileInputs.cache
+/Users/mrhumidum/Documents/Projects/labs/Lab_1/obj/Debug/net8.0/Lab_1.sourcelink.json
+/Users/mrhumidum/Documents/Projects/labs/Lab_1/obj/Debug/net8.0/Lab_1.dll
+/Users/mrhumidum/Documents/Projects/labs/Lab_1/obj/Debug/net8.0/refint/Lab_1.dll
+/Users/mrhumidum/Documents/Projects/labs/Lab_1/obj/Debug/net8.0/Lab_1.pdb
+/Users/mrhumidum/Documents/Projects/labs/Lab_1/obj/Debug/net8.0/Lab_1.genruntimeconfig.cache
+/Users/mrhumidum/Documents/Projects/labs/Lab_1/obj/Debug/net8.0/ref/Lab_1.dll

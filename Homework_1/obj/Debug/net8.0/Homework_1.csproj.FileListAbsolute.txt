@@ -12,3 +12,4 @@
 /Users/mrhumidum/Documents/Projects/labs/Homework_1/obj/Debug/net8.0/Homework_1.pdb
 /Users/mrhumidum/Documents/Projects/labs/Homework_1/obj/Debug/net8.0/Homework_1.genruntimeconfig.cache
 /Users/mrhumidum/Documents/Projects/labs/Homework_1/obj/Debug/net8.0/ref/Homework_1.dll
+/Users/mrhumidum/Documents/Projects/labs/Homework_1/obj/Debug/net8.0/Homework_1.sourcelink.json
