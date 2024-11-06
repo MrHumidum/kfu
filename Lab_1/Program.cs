@@ -50,7 +50,7 @@ Console.WriteLine($"\nСледующая буква: {letter}");
 
 Console.WriteLine("\nДомашнее задание 2.2\n");
 
-Console.WriteLine("Введите коэффициенты уравнения");
+Console.WriteLine("Введите 3 коэффициентa уравнения через Enter");
 
 int a = Convert.ToInt32(Console.ReadLine());
 int b = Convert.ToInt32(Console.ReadLine());
