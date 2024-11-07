@@ -358,15 +358,10 @@ Console.WriteLine($"Угол= {angle}°");
 
 Console.WriteLine("№27");
 
-Console.Write("Введите угол y (0 <= y <= 2): ");
-double y = Convert.ToDouble(Console.ReadLine());
-double minuteAngle = 6 * y;
-hours = (int)(y / 1);
-minutes = (int)((y * 60) % 60);
+Console.WriteLine("Введите угол часовой стрелки (в радианах)");
+double y27 = double.Parse(Console.ReadLine());
 
-Console.WriteLine($"Угол минутной стрелки: {minuteAngle}°");
-Console.WriteLine($"Полные часы: {hours}");
-Console.WriteLine($"Полные минуты: {Math.Floor(minutes)}");
+Console.WriteLine($"Угол минутной стрелки равен {minutes / 30} радиан; время - {Math.Floor(6 * y27)}:{(180 * y27 - 30 * hours) * 2}");
 
 Console.WriteLine("№28");
 double minimal = 100000000000000;
